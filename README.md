@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @lwilko
+- 🎓 I recently graduated with an MPhys Physics from the University of Edinburgh
+- 👨‍💻 I work as an Information Analyst for Public Health Scotland
+- ✍️ I’m currently patching up my Masters Project code after finishing my degree! Check out lwilko/mphys to see what I'm up to
+- 🌱 My current project is to learn R, for funkier graphs and get smarter with my data analysis coding
 - 👀 I’m interested in educational technology, graphical simulation, and game development
-- 🌱 I’m currently learning to use Git over the course of my Masters project (MPhys Physics)! Check out lwilko/mphys to see what I'm up to
 - 📫 You can find me on Twitter @wilkotweets :)
 
 <!---
