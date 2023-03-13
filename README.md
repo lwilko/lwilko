@@ -2,7 +2,9 @@
 <a href="https://github.com/lwilko">
     <img src="https://lwilko.github.io/images/name-logo-blue.svg" width="500" alt="Levin Wilkinson" />
 </a>
-<br>
+</p>
+
+<p align="center">
 
 <a href="https://lwilko.github.io/">
     <img src="https://img.shields.io/badge/Website-lwilko.github.io-blue?style=for-the-badge">
