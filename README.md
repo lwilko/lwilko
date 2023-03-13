@@ -16,6 +16,9 @@
 <a href="https://www.twitter.com/wilkotweets">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
+<a href="https://lwilko.github.io/files/Levin%20Wilkinson%20CV.pdf">
+    <img src="https://img.shields.io/badge/CV-%23585454.svg?style=for-the-badge&logo=adobe&logoColor=white">
+</a>
 
 </p>
 
