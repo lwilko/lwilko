@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/lwilko">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1FAAFFFF&center=true&vCenter=true&width=435&lines=Levin+Wilkinson" alt="Typing SVG" />
+    <img src="https://lwilko.github.io/images/name-logo-blue.svg" width="500" alt="Levin Wilkinson" />
 </a>
 <br>
 
@@ -28,10 +28,3 @@
 - 🌱 My current focus is improving my R proficiency to produce smarter, more elegant scripts
 - ✍️ In my free time, I’m working on my [website](https://lwilko.github.io/) and writing data analysis automations for personal use
 - 👀 I’m interested in educational technology, graphical simulation, and game development
-- 📫 You can find me on Twitter @wilkotweets :)
-
-
-<!---
-lwilko/lwilko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
