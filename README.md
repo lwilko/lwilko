@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/lwilko">
-    <img src="https://lwilko.github.io/images/name-logo-blue.svg" width="500" alt="Levin Wilkinson" />
+    <img src="https://lwilko.github.io/images/name-logo-blue.svg" width="35%" alt="Levin Wilkinson" />
 </a>
 </p>
 
