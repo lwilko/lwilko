@@ -1,10 +1,4 @@
 <p align="center">
-<a href="https://github.com/lwilko">
-    <img src="https://lwilko.github.io/images/name-logo-blue.svg" width="35%" alt="Levin Wilkinson" />
-</a>
-</p>
-
-<p align="center">
 
 <a href="https://lwilko.github.io/">
     <img src="https://img.shields.io/badge/Website-lwilko.github.io-blue?style=for-the-badge">
