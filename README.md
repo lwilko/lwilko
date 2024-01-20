@@ -19,8 +19,8 @@
 </p>
 
 - ✴️ Hi, I’m Lev!
-- 📙 I recently graduated with an [MPhys Physics](https://github.com/lwilko/mphys) from the University of Edinburgh
 - 🍊 I work as an Information Analyst for the Drugs Team at [Public Health Scotland](https://github.com/PublicHealthScotland)
-- ⛵ My current work focus is building an R package for my team
+- ⛵ My current work focus is developing R infrastucture to support the publication of [Scotland's biennial Naloxone Monitoring Report](https://publichealthscotland.scot/publications/national-naloxone-programme-scotland-annual/national-naloxone-programme-scotland-monitoring-report-201920-202021/)
+- 🍄 My current side quest is building an R package for my team
 - ✍️ In my free time, I’m compiling my favourite graph styles into a personal R package
 - 🧡 I’m interested in educational technology, graphical simulation, and game development
